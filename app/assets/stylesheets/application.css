@@ -13,3 +13,31 @@
  *= require_tree .
  *= require_self
  */
+
+.title{
+background-color: grey;
+color: whitesmoke;
+font-weight:900;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ques{
+background-color:grey ;
+color:white;
+font-style: italic;
+font-weight:700;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ans, .form{
+color:white;
+background-color: grey;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button{
+  padding: 5px;
+  background-color: gray;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
